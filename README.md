@@ -1,4 +1,3 @@
-# mini-project
+# mini-projects
 
 
-I will upload some mini project 
